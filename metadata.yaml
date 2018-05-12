@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15088#Proserpina-Volume-2--13-Studies-of-Wayside-Flowers-While-the-Air-was-Yet-Pure-Among-the-Alps-_
 gutenberg_issued: '2005-02-17'
 gutenberg_type: Text
 identifiers:
